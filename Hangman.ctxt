@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Draws\ hanger\ for\ hangman\ with\ myMan.draw,\ puts\ words\ to\ guess,\ intializes\ variables\r\n\ @param\ String[]\ args\r\n
+comment1.params=word\ enteredLetters
+comment1.target=int\ enterLetter(java.lang.String,\ char[])
+comment1.text=\r\n\ Asks\ user\ to\ guess\ word\ and\ draws\ hangman\ if\ wrong\r\n\ @param\ String\ word\r\n\ @param\ enteredLetters\r\n\ @return\ 2,1,drawCount\r\n
+comment2.params=word\ enteredLetters
+comment2.target=boolean\ printWord(java.lang.String,\ char[])
+comment2.text=\r\n\ Prints\ letter\ out\ to\ show\ how\ many\ user\ has\ revealed\r\n\r\n\ @param\ String\ word\r\n\ @param\ char[]\ enteredLetters\r\n\ @return\ asteriskPrinted\r\n
+comment3.params=letter\ enteredLetters
+comment3.target=boolean\ inEnteredLetters(char,\ char[])
+comment3.text=\r\n\ Method\ inEnteredLetters\r\n\r\n\ @param\ letter\ \r\n\ @param\ char[]\ enteredLetters\r\n\ @return\ String(enteredLetters).contains(String.valueOf(letter))\r\n
+comment4.params=enteredLetters
+comment4.target=int\ findEmptyPosition(char[])
+comment4.text=\r\n\ Method\ findEmptyPosition\ used\ to\ clear\ screen\r\n\r\n\ @param\ char[]\ enteredLetters\r\n\ @return\ i\r\n
+numComments=5

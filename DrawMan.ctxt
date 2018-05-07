@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DrawMan()
+comment0.text=\r\n\ DrawMan\ Constructor\ intializes\ myPaper\ and\ myPen\r\n
+comment1.params=
+comment1.target=void\ drawGallow()
+comment1.text=\r\n\ Draws\ hanger/stand\ for\ hangman\ using\ myPen\r\n
+comment2.params=
+comment2.target=void\ drawHead()
+comment2.text=\r\n\ Draws\ man's\ head\ using\ myPen\r\n
+comment3.params=
+comment3.target=void\ drawBody()
+comment3.text=\r\n\ Draws\ man's\ body\ using\ myPen\r\n
+comment4.params=
+comment4.target=void\ drawLeftArm()
+comment4.text=\r\n\ Draws\ man's\ left\ arm\ using\ myPen\r\n
+comment5.params=
+comment5.target=void\ drawRightArm()
+comment5.text=\r\n\ Draws\ man's\ right\ arm\r\n
+comment6.params=
+comment6.target=void\ drawLeftLeg()
+comment6.text=\r\n\ Draws\ man's\ left\ leg\ \r\n
+comment7.params=
+comment7.target=void\ drawRightLeg()
+comment7.text=\r\n\ Draw\ man's\ right\ leg\r\n
+numComments=8
